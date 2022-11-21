@@ -41,6 +41,89 @@ Frozen Lake Output
         Average reward over 1000 episodes: 0.477322424788234
         -----------------------------------------------------------------------
         
+        Summary (gamma = 0.05):
+        Total wins over 5000 episodes: 1016
+        Average reward over 5000 episodes: 0.10220000064115649
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.15):
+        Total wins over 5000 episodes: 2284
+        Average reward over 5000 episodes: 0.22640013589948557
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.25):
+        Total wins over 5000 episodes: 2293
+        Average reward over 5000 episodes: 0.22530291698649357
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.35):
+        Total wins over 5000 episodes: 2294
+        Average reward over 5000 episodes: 0.22751915778198864
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.45):
+        Total wins over 5000 episodes: 2257
+        Average reward over 5000 episodes: 0.22409957526245197
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.55):
+        Total wins over 5000 episodes: 2220
+        Average reward over 5000 episodes: 0.2273253580103136
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.65):
+        Total wins over 5000 episodes: 2242
+        Average reward over 5000 episodes: 0.21872563227322403
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.75):
+        Total wins over 5000 episodes: 2293
+        Average reward over 5000 episodes: 0.22516548215622378
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.85):
+        Total wins over 5000 episodes: 3922
+        Average reward over 5000 episodes: 0.4046019112709803
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.95):
+        Total wins over 5000 episodes: 3922
+        Average reward over 5000 episodes: 0.4860592416656999
+        -----------------------------------------------------------------------
+
+        Summary (gamma = 0.05):
+        Total wins over 30000 episodes: 5996
+        Average reward over 30000 episodes: 0.10301666740650617
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.15):
+        Total wins over 30000 episodes: 13507
+        Average reward over 30000 episodes: 0.22591689684818267
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.25):
+        Total wins over 30000 episodes: 13371
+        Average reward over 30000 episodes: 0.2273028124611529
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.35):
+        Total wins over 30000 episodes: 13549
+        Average reward over 30000 episodes: 0.22418698798694564
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.45):
+        Total wins over 30000 episodes: 13587
+        Average reward over 30000 episodes: 0.2264325508459776
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.55):
+        Total wins over 30000 episodes: 13622
+        Average reward over 30000 episodes: 0.2221934019766961
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.65):
+        Total wins over 30000 episodes: 13410
+        Average reward over 30000 episodes: 0.22554221195612142
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.75):
+        Total wins over 30000 episodes: 13610
+        Average reward over 30000 episodes: 0.23049300877560197
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.85):
+        Total wins over 30000 episodes: 23473
+        Average reward over 30000 episodes: 0.4069016524934784
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.95):
+        Total wins over 30000 episodes: 23449
+        Average reward over 30000 episodes: 0.48150523608945145
+        -----------------------------------------------------------------------
+
+
     Value Iteration
         Summary (gamma = 0.05):
         Average wins over 1000 episodes: 442
@@ -82,6 +165,90 @@ Frozen Lake Output
         Average wins over 1000 episodes: 773
         Average reward over 1000 episodes: 0.4805045179743123
         -----------------------------------------------------------------------
+    
+        Summary (gamma = 0.05):
+        Total wins over 5000 episodes: 2202
+        Average reward over 5000 episodes: 0.22640000073739944
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.15):
+        Total wins over 5000 episodes: 2236
+        Average reward over 5000 episodes: 0.22720026148245698
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.25):
+        Total wins over 5000 episodes: 2276
+        Average reward over 5000 episodes: 0.2263028576832678
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.35):
+        Total wins over 5000 episodes: 2300
+        Average reward over 5000 episodes: 0.22281808117643823
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.45):
+        Total wins over 5000 episodes: 2268
+        Average reward over 5000 episodes: 0.2273050836272338
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.55):
+        Total wins over 5000 episodes: 2238
+        Average reward over 5000 episodes: 0.22718150549278804
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.65):
+        Total wins over 5000 episodes: 2206
+        Average reward over 5000 episodes: 0.22827409719808325
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.75):
+        Total wins over 5000 episodes: 2302
+        Average reward over 5000 episodes: 0.23719416778598215
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.85):
+        Total wins over 5000 episodes: 3896
+        Average reward over 5000 episodes: 0.40124759324535436
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.95):
+        Total wins over 5000 episodes: 3822
+        Average reward over 5000 episodes: 0.4847798636660113
+        -----------------------------------------------------------------------
+
+        Summary (gamma = 0.05):
+        Total wins over 30000 episodes: 13458
+        Average reward over 30000 episodes: 0.22936666738785788
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.15):
+        Total wins over 30000 episodes: 13568
+        Average reward over 30000 episodes: 0.2265002209780645
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.25):
+        Total wins over 30000 episodes: 13587
+        Average reward over 30000 episodes: 0.22581975074187224
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.35):
+        Total wins over 30000 episodes: 13471
+        Average reward over 30000 episodes: 0.22593675440673494
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.45):
+        Total wins over 30000 episodes: 13525
+        Average reward over 30000 episodes: 0.2282681543317327
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.55):
+        Total wins over 30000 episodes: 13416
+        Average reward over 30000 episodes: 0.22681622767002155
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.65):
+        Total wins over 30000 episodes: 13556
+        Average reward over 30000 episodes: 0.22482848031809247
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.75):
+        Total wins over 30000 episodes: 13436
+        Average reward over 30000 episodes: 0.22755680257602567
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.85):
+        Total wins over 30000 episodes: 23397
+        Average reward over 30000 episodes: 0.40591985223013016
+        -----------------------------------------------------------------------
+        Summary (gamma = 0.95):
+        Total wins over 30000 episodes: 23424
+        Average reward over 30000 episodes: 0.47981392299574815
+        -----------------------------------------------------------------------
+
+    
     Q-Learning
         Summary (ε=0.05): 
         Wins over 30000 episodes: 773
@@ -135,7 +302,7 @@ Frozen Lake Output
         -----------------------------------------------------------------------
         
         
-Forest  Management
+Forest  Management S=2000
     Policy Iteration
         Summary (gamma = 0.05):
         Average Rewards: 1.0036088953273545
@@ -201,33 +368,33 @@ Forest  Management
         -----------------------------------------------------------------------
 
     Q-Learning
-        Summary (gamma = 0.05):
-        Average reward: 0.002649523035966439
+        Summary (epsilon = 0.05):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.15):
-        Average reward: 0.0023202104448088972
+        Summary (epsilon = 0.15):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.25):
-        Average reward: 0.0027528137460993926
+        Summary (epsilon = 0.25):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.35):
-        Average reward: 0.0033159595617894395
+        Summary (epsilon = 0.35):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.45):
-        Average reward: 0.004083153164725241
+        Summary (epsilon = 0.45):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.55):
-        Average reward: 0.0039466986280834735
+        Summary (epsilon = 0.55):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.65):
-        Average reward: 0.00582154300011104
+        Summary (epsilon = 0.65):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.75):
-        Average reward: 0.007957539565760481
+        Summary (epsilon = 0.75):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.85):
-        Average reward: 0.008805666083916818
+        Summary (epsilon = 0.85):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
-        Summary (gamma = 0.95):
-        Average reward: 0.023670258414752704
+        Summary (epsilon = 0.95):
+        Average reward: 0.5005
         -----------------------------------------------------------------------
